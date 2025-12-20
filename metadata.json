@@ -1,0 +1,5 @@
+{
+  "name": "Keto Companion",
+  "description": "A smart diet assistant that analyzes your meals from text, calculates macros, and checks for Keto compatibility.",
+  "requestFramePermissions": []
+}
